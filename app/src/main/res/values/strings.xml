@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shopping</string>
+
+    <string name="products">Products</string>
+
+    <!-- Content Description -->
+    <string name="products_image">product image</string>
+    <string name="str_test_date">22/02/2017</string>
+</resources>

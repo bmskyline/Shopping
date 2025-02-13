@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "price": 0.99,
+    "description": "A crisp, sweet fruit with a red or green skin.",
+    "imageUrl": "file:///android_asset/images/apple.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "price": 0.50,
+    "description": "A long, curved fruit with a yellow skin.",
+    "imageUrl": "file:///android_asset/images/banana.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "price": 1.20,
+    "description": "A round, juicy fruit with an orange skin.",
+    "imageUrl": "file:///android_asset/images/orange.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Grape",
+    "price": 2.99,
+    "description": "Small, sweet fruits that grow in clusters.",
+    "imageUrl": "file:///android_asset/images/grape.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Strawberry",
+    "price": 3.50,
+    "description": "A small, red fruit with tiny seeds on the outside.",
+    "imageUrl": "file:///android_asset/images/strawberry.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Blueberry",
+    "price": 4.00,
+    "description": "Small, round, blue fruits with a slightly sweet taste.",
+    "imageUrl": "file:///android_asset/images/blueberry.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Raspberry",
+    "price": 4.50,
+    "description": "Small, red fruits with a slightly tart taste.",
+    "imageUrl": "file:///android_asset/images/raspberry.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mango",
+    "price": 1.99,
+    "description": "A sweet, tropical fruit with a yellow or orange flesh.",
+    "imageUrl": "file:///android_asset/images/mango.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pineapple",
+    "price": 2.50,
+    "description": "A large, prickly fruit with a sweet and tangy flavor.",
+    "imageUrl": "file:///android_asset/images/pineapple.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Watermelon",
+    "price": 5.00,
+    "description": "A large, juicy fruit with a green rind and red flesh.",
+    "imageUrl": "file:///android_asset/images/watermelon.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Avocado",
+    "price": 1.50,
+    "description": "A creamy, green fruit with a single large seed.",
+    "imageUrl": "file:///android_asset/images/avocado.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Kiwi",
+    "price": 0.75,
+    "description": "A small, fuzzy fruit with a green flesh and tiny black seeds.",
+    "imageUrl": "file:///android_asset/images/kiwi.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Cherry",
+    "price": 4.99,
+    "description": "Small, round fruits with a red or black skin.",
+    "imageUrl": "file:///android_asset/images/cherry.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Peach",
+    "price": 1.75,
+    "description": "A fuzzy, juicy fruit with a yellow or white flesh.",
+    "imageUrl": "file:///android_asset/images/peach.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Plum",
+    "price": 2.25,
+    "description": "A small, round fruit with a smooth skin and a juicy flesh.",
+    "imageUrl": "file:///android_asset/images/plum.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Pear",
+    "price": 1.00,
+    "description": "A sweet fruit with a bell-shaped body.",
+    "imageUrl": "file:///android_asset/images/pear.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Chili",
+    "price": 0.50,
+    "description": "A hot, spicy fruit often used as a vegetable.",
+    "imageUrl": "file:///android_asset/images/chili.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Lime",
+    "price": 0.70,
+    "description": "A small, green fruit with a sour taste.",
+    "imageUrl": "file:///android_asset/images/lime.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Cantaloupe",
+    "price": 3.00,
+    "description": "A type of melon with a light orange flesh.",
+    "imageUrl": "file:///android_asset/images/cantaloupe.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Honeydew",
+    "price": 3.50,
+    "description": "A type of melon with a pale green flesh.",
+    "imageUrl": "file:///android_asset/images/honeydew.jpg"
+  }
+]
